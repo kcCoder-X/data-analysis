@@ -1,4 +1,4 @@
-📊 E-Commerce Funnel & Revenue Analytics (SQL Project)
+📊 E-Commerce Funnel & Revenue Analytics (SQL Project)    
 🚀 Project Overview
 
 This project performs end-to-end funnel and revenue analysis using SQL on a user_events dataset.
